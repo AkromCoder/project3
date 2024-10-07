@@ -3,3 +3,4 @@ abc
 a==b
 b==temp
 temp==a
+maqsad: ikki o'zgaruvchining qiymatlarini almashtirish!
